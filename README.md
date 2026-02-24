@@ -75,9 +75,3 @@ The dataset contains customer driving and coupon information with columns like:
    * Key findings
    * Marketing recommendations
    * Customer targeting strategy
-
----
-
-## Key Insights (Example)
-
-* Yo
